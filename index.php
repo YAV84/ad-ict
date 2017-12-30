@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Welcome to ADICT</title>
-		<link rel="stylesheet" type="text/css" href="./assets/css/stylesheet.css">
+		<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
 	</head>
 	<body>
 		<div id="header">
-			<img src="./assets/img/logo/Adict_NoBackground_NoMeaning.png"/>
+			<img src="/images/logo/Adict_NoBackground_NoMeaning.png"/>
 		</div>
-		<div id="content">
+		<div id="main_container">
 			<div class="title">
 				<h1>Welcome to ADICT:</h1>
 				<h2>Application Development for the Internet of Connected Things</h2>

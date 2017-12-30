@@ -4,3 +4,8 @@ api_version: 1
 handlers:
 - url: /.*
   script: index.php
+- url: /images
+  static_dir: assets/img
+  mime_type: image/png
+- url: /css
+  static_dir: assets/css
