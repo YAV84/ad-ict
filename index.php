@@ -10,7 +10,7 @@
 		</div>
 		<div id="main_container">
 			<div class="title">
-				<h1>Welcome to ADICT:</h1>
+				<h1>Welcome to ADICT - test:</h1>
 				<h2>Application Development for the Internet of Connected Things</h2>
 			</div>
 			<div class="content">
