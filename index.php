@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Welcome to ADICT - test</title>
+		<title>Test - Welcome to ADICT - test</title>
 		<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
 	</head>
 	<body>
